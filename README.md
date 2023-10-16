@@ -8,7 +8,8 @@ My seasonal hobbies are:
 - Spring: Fly fishing for Brown Trout🎣
 
 Open to feedback and new opportunities😎
-Feel free to reach me @ jaden.ay.moore@gmail.com
+
+Feel free to reach me @ jaden.ay.moore@gmail.com 📩
 
 <!---
 JadenAntM/JadenAntM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
