@@ -1,4 +1,4 @@
-#👋 Hi, I’m Jaden Moore
+# Hi, I’m Jaden Moore
 
 ### Passionate about all things tech💻
 
