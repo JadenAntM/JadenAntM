@@ -3,10 +3,10 @@
 ### Passionate about all things tech💻
 
 ### My seasonal hobbies are:
-- Summer: Fishing for Largemouth Bass and Camping🏕
-- Fall: Hiking and picking Honeycrisp apples🍎
-- Winter: Lacing up the skates to play pond hockey🏒
-- Spring: Fly fishing for Brown Trout🎣
+- **Summer:** Fishing for Largemouth Bass and Camping🏕
+- **Fall:** Hiking and picking Honeycrisp apples🍎
+- **Winter:** Lacing up the skates to play pond hockey🏒
+- **Spring:** Fly fishing for Brown Trout🎣
 
 ## 💻 Tech Stack:
 ### Backend
