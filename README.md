@@ -19,7 +19,8 @@
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 <br />
-Feel free to reach me @ jaden.ay.moore@gmail.com 📩
+
+#### Feel free to reach me @ jaden.ay.moore@gmail.com 📩
 
 <!---
 JadenAntM/JadenAntM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
