@@ -28,4 +28,4 @@
 
 <br />
 
-#### [cite_start]Feel free to reach me @ jaden.ay.moore@gmail.com 📩 [cite: 2]
+#### Feel free to reach me @ jaden.ay.moore@gmail.com 📩
