@@ -6,7 +6,7 @@ I like building **backend systems, automation, data tools, and full-stack applic
 
 Previously, I worked on the **Equity Derivatives technology team at RBC Capital Markets** and spent a year building production software at **TFI International**.
 
-Currently building 🌊 **Riverwise** — a full-stack river conditions platform for Nova Scotia anglers using **Next.js, FastAPI, PostgreSQL, and Docker**.
+Currently building 🌊 **Riverwise** -- a full-stack river conditions platform for Nova Scotia anglers using **Next.js, FastAPI, PostgreSQL, and Docker**.
 
 ---
 
